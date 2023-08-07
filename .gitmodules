@@ -1,0 +1,12 @@
+[submodule "taco-e001-cud"]
+	path = taco-e001-cud
+	url = git@github.com:rouzzlan/taco-e001-cud.git
+[submodule "taco-e001-r"]
+	path = taco-e001-r
+	url = git@github.com:rouzzlan/taco-e001-r.git
+[submodule "taco-e001-frontend"]
+	path = taco-e001-frontend
+	url = git@github.com:rouzzlan/taco-e001-frontend.git
+[submodule "mysql-db-replication"]
+	path = mysql-db-replication
+	url = git@github.com:rouzzlan/mysql-db-replication.git
